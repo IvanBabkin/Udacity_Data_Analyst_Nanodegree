@@ -1,7 +1,7 @@
 # Udacity Data Analyst Nanodegree
 This repository contains 5 projects that were completed as part of Udacity's Data Analyst Nanodegree.
 
-Find course [here.](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
+Find Nanodegree [here.](https://www.udacity.com/course/data-analyst-nanodegree--nd002)
 
 [Proof of graduation](https://confirm.udacity.com/MNZNQNVJ)
 
